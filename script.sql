@@ -1,5 +1,5 @@
-create database zooflask;
-use zooflask;
+create database zooflasktarde;
+use zooflasktarde;
 create table animal(
   id int primary key auto_increment,
   nome_popular varchar(80) NOT NULL,
